@@ -1,0 +1,11 @@
+{
+  "name": "skills-docencia",
+  "owner": { "name": "Tu Nombre" },
+  "plugins": [
+    {
+      "name": "docencia",
+      "source": "./plugins/docencia",
+      "description": "Skills para docencia en ingeniería"
+    }
+  ]
+}
